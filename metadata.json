@@ -1,0 +1,10 @@
+
+{
+  "name": "Pocket Signals Master",
+  "description": "An advanced signal generator for binary options using AI-driven technical analysis and Telegram bot simulation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
